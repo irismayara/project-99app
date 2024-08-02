@@ -45,7 +45,7 @@ def extract_data_from_html(file_path):
 
         return data
 
-recibos_dir = r'C:\Users\iris.nunes\Documents\workspace-python\project-99app\recidos'
+recibos_dir = r'.\recidos'
 csv_output_file = 'recibos.csv'
 
 all_data = []
